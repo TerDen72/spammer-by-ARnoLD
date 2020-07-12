@@ -8,5 +8,6 @@
 • <code>pkg install python -y</code><br>
 • <code>pkg install git -y</code><br>
 • <code>git clone https://github.com/palkamilka/spammer-by-ARnoLD</code><br>
-• <code>sh ~/spammer-by-ARnoLD/install.sh</code><br>
+• <code>cd spammer-by-ARnoLD</code><br>
+• <code>python install.py</code><br>
 • <code>spammer</code><br>
