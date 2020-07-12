@@ -12,6 +12,6 @@
 • <code>python install.py</code><br>
 • <code>spammer</code><br>
 
-# Что нового
+# Что нового?
 <b>1. Добавлены новые сервиса<br>
 <b>2. Добавлен спамер звонками<br>
