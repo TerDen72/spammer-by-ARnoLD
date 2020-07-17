@@ -1,5 +1,5 @@
 # Spammer
-<b>Простой, но мощный SMS-спамер. Улучшение от ARnoLD<br>
+<b>Простой, но мощный SMS-спамерD<br>
 # Как установить?
 
 <b>Установка на Android<b> - скачать <a href="https://play.google.com/store/apps/details?id=com.termux&hl=ru">Termux из Google Play</a>, открыть его и прописать команды ниже:<br>
@@ -15,3 +15,4 @@
 # Что нового?
 <b>1. Добавлены новые сервиса<br>
 <b>2. Добавлен спамер звонками<br>
+<b>3. Добавлен спамер email<br>
