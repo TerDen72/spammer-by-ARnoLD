@@ -1348,7 +1348,7 @@ def main():
     choose = input ('>>>')
     if choose == '1':
       os.system('cls' if os.name=='nt' else 'clear')
-     print (logo)
+      print (logo)
       print ('[1] - ТОЛЬКО СПАМ СМС, [2] - ТОЛЬКО СПАМ ПОЧТЫ, [3] - СПАМ ПОЧТЫ И СМС')
       choose2 = input ('>>>')
       if choose2 == '1':
@@ -1363,9 +1363,6 @@ def main():
         print ('[!] Ошибка! Повтори запрос!')
         time.sleep(2)
     if choose == '2':
-      os.system('cls' if os.name=='nt' else 'clear')
-      print (logo)
-      print ('[!] Происходит установка...')
       if os.name == 'nt':
         os.system('cls' if os.name=='nt' else 'clear')
         print (logo)
@@ -1396,8 +1393,7 @@ def conection():
     print (logo)
     print ('[!] Ошибка! Повтори запрос!')
     time.sleep(2)
-import colorama, os
-import requests, random, time, json
+import requests, random, time, json, colorama, os
 import smtplib as root
 from colorama import Fore, Back
 from email.mime.text import MIMEText
