@@ -7,11 +7,9 @@
 • <code>apt update && apt upgrade -y</code><br>
 • <code>pkg install python</code><br>
 • <code>pkg install git</code><br>
-• <code>pip install colorama</code><br>
 • <code>git clone https://github.com/palkamilka/spammer-by-ARnoLD</code><br>
 • <code>cd spammer-by-ARnoLD</code><br>
 • <code>python install.py</code><br>
-• <code>spammer</code><br>
 
 # Что нового?
 <b>1. Добавлены новые сервиса<br>
